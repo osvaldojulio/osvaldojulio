@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Oayoo Mina! 👋 sou o Osvaldo Júlio, Desenvolvedor web (front-end) e Designer gráfico!
+## Ohayoo Mina! 👋 sou o Osvaldo Júlio, Desenvolvedor web (front-end) e Designer gráfico!
 <!-- Actualmente estou estudando Vue & Node js por conta própria -->
 
 <div align="center">
